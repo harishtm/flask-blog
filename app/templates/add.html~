@@ -1,0 +1,8 @@
+<html>
+<body>
+<form action="" method="post">
+Title <input type="text" name="title"/>
+Body<textarea type="text" name="body"></textarea>
+<button class="button postfix"  type="submit">Add</button>
+</body>
+</html>
